@@ -1,0 +1,17 @@
+var Animals = [
+     {
+          "name": "Cinder",
+          "type": "puppy",
+          "gender": "female",
+          "age": "7",
+          "owner": "riley",
+     },
+     {
+          "name": "Mikki",
+          "type": "puppy",
+          "gender": "female",
+          "age": "15",
+          "owner": "nikki", 
+     }
+]
+
